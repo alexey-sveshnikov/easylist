@@ -5569,6 +5569,7 @@ cgi-bin/counter
 .intercom-mail.com/via/$image
 .inxmail-commerce.com/tracking/$image
 .inxserver.com/transparent.gif
+.fp.kaspersky-labs.com/
 .keap-link003.com/$image
 .keap-link004.com/$image
 .keap-link005.com/$image
